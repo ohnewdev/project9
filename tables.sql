@@ -1,3 +1,5 @@
+create database project9;
+
 -- DROP TABLE COM_CODE;
 
 CREATE TABLE COM_CODE(
